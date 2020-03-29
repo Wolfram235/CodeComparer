@@ -1,0 +1,8 @@
+Thankyou for taking the time to review my project
+
+Steps to run the code comparator
+1)open your terminal
+2)type 'python project1.py' and press Enter
+3)Input the two algorithms that you want to compare
+4)It will finish processing and display the results as bar graphs. 
+	NOTE: Maximize the results window to view all the details clearly.
